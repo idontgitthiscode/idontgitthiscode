@@ -9,7 +9,7 @@ I’m a **Technical Project Manager** from Hamburg who loves building things by 
 
 ### 🚀 What I'm currently working on
 * **Local AI & RAG:** I’m experimenting with local LLMs (Ollama) and RAG (Retrieval-Augmented Generation) to see how private, local AI can help manage project documentation without compromising data privacy.
-* **Portfolio Documentation:** I'm building [torben.erdmann.de](https://torbenerdmann.de) as a "living resume" to showcase my PM workflow.
+* **Portfolio Documentation:** I'm building [torbenerdmann.de](https://torbenerdmann.de) as a "living resume" to showcase my PM workflow.
 
 ### 🛠 Tech I work with
 * **PM:** Kanban, GitHub Projects, Atlassian.
