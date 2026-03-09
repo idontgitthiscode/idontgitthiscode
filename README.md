@@ -13,7 +13,7 @@ I’m a **Technical Project Manager** from Hamburg who loves building things by 
 
 ### 🛠 Tech I work with
 * **PM:** Kanban, GitHub Projects, Atlassian.
-* **Dev & Ops:** Astro, Docker, AWS, Hetzner, and a lot of hands-on DNS and server work.
+**Dev & Ops:** Specialized in high-performance architecture with **Astro**, **Docker**, and **Hetzner/AWS**, utilizing **AI-augmented coding** to independently build and optimize custom solutions. I bridge the gap between design and infrastructure by combining hands-on engineering with proactive, AI-driven code optimization.
 * **Other:** Technical coordination, white-label solutions, and identity verification systems.
 
 
